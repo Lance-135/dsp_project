@@ -36,7 +36,7 @@ class AudioDenoiserGUI:
         # Configure button styles
         style.configure("Accent.TButton", 
                       background="#0078d4", 
-                      foreground="white",
+                      foreground="black",
                       font=("Arial", 9, "bold"))
         
         # Configure frame styles
